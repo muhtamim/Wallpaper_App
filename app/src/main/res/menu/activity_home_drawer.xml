@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:showIn="navigation_view">
+
+    <item android:title="Management"
+        android:visible="true">
+        <menu>
+            <item
+                android:id="@+id/Rate_Us"
+                android:icon="@drawable/rateusicon"
+                android:title="Rate Us" />
+
+            <item
+                android:id="@+id/nav_slideshow"
+                android:icon="@drawable/ic_about"
+                android:title="About Us" />
+
+            <item
+                android:id="@+id/nav_about"
+                android:icon="@drawable/share"
+                android:title="Share" />
+        </menu>
+    </item>
+
+    <item android:title="Other">
+        <menu>
+            <item
+                android:id="@+id/Privacy_Policy"
+                android:icon="@drawable/ic_sell"
+                android:title="Privacy Policy" />
+            <item
+                android:id="@+id/Instagram"
+                android:icon="@drawable/instragramicon"
+                android:title="Instagram" />
+            <item
+                android:id="@+id/Facebook"
+                android:icon="@drawable/facebookicon"
+                android:title="Facebook" />
+            <item
+                android:id="@+id/Youtube"
+                android:icon="@drawable/youtubeicon"
+                android:title="Youtube" />
+
+        </menu>
+    </item>
+
+
+
+
+</menu>

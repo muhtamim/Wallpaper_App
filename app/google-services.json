@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "project_number": "240612290828",
+    "firebase_url": "https://muhkabbrbluemwall.firebaseio.com",
+    "project_id": "muhkabbrbluemwall",
+    "storage_bucket": "muhkabbrbluemwall.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240612290828:android:35e31f8c411c1a9beb5929",
+        "android_client_info": {
+          "package_name": "bluemwall.mhussain96.com.bluemwall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "240612290828-27usdpaf2tiddmg2k524ljm7nc43co0t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "bluemwall.mhussain96.com.bluemwall",
+            "certificate_hash": "5d270a308e5f0964929fcf8136b4d63d256f25dd"
+          }
+        },
+        {
+          "client_id": "240612290828-v4vetn9ipl38t8t2aap8tocc0148llrk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCc7jvz7rr_du8gWpTls_uCP5p2XT1FY9Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "240612290828-v4vetn9ipl38t8t2aap8tocc0148llrk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240612290828:android:e78dc2bd33e06da3eb5929",
+        "android_client_info": {
+          "package_name": "muhtamim.example.com.bluemwall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "240612290828-tpka3ctu1s8e773ma0as0el21kj1g006.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "muhtamim.example.com.bluemwall",
+            "certificate_hash": "5d270a308e5f0964929fcf8136b4d63d256f25dd"
+          }
+        },
+        {
+          "client_id": "240612290828-v4vetn9ipl38t8t2aap8tocc0148llrk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCc7jvz7rr_du8gWpTls_uCP5p2XT1FY9Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "240612290828-v4vetn9ipl38t8t2aap8tocc0148llrk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240612290828:android:b05995a47be94fb2eb5929",
+        "android_client_info": {
+          "package_name": "teacherkothai.example.com.muhkabbrbluemwall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "240612290828-ovs7kogi4v0f0idr2sm30irv5r5od662.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "teacherkothai.example.com.muhkabbrbluemwall",
+            "certificate_hash": "5d270a308e5f0964929fcf8136b4d63d256f25dd"
+          }
+        },
+        {
+          "client_id": "240612290828-v4vetn9ipl38t8t2aap8tocc0148llrk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCc7jvz7rr_du8gWpTls_uCP5p2XT1FY9Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "240612290828-v4vetn9ipl38t8t2aap8tocc0148llrk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

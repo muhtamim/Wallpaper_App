@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Blue M Wall </string>
+    <string name="title_activity_home">HomeActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="facebook_app_id">204016743664185</string>
+    <string name="facebook_login_protocol_scheme">fb204016743664185</string>
+
+    <!-- Admob Banner dyalk hna !!!-->
+    <string name="admob_banner_id">ca-app-pub-8899551094463187/4963527158</string>
+
+    <!-- Admob Native dyalk hna !!!-->
+    <string name="admob_native_ads">ca-app-pub-8899551094463187/5777135122</string>
+
+    <string name="aboutus"><b>Blue M Wall</b>\n
+         <b>version 1.0</b>\n\n
+        mhussain5959@gmail.com \n\n
+        Copyright © 2020 Blue M Group\n
+          All right reserved\n\n
+    </string>
+
+</resources>
